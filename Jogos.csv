@@ -1,381 +1,381 @@
 ﻿Rodadas;Time Casa;Time Fora;Resultado Casa
 1;Fluminense;Santos;E
-1;Atlético Goianiense;Flamengo;E
+1;Atlético-GO;Flamengo;E
 1;Palmeiras;Ceará;D
 1;Coritiba;Goiás;V
-1;Atlético Mineiro;Internacional;V
+1;Atlético-MG;Internacional;V
 1;Botafogo;Corinthians;D
 1;Fortaleza;Cuiabá;D
-1;São Paulo;Athletico Paranaense;V
-1;Avaí;América Mineiro;V
-1;Juventude;Red Bull Bragantino;E
+1;São Paulo;Athlético-PR;V
+1;Avaí;América-MG;V
+1;Juventude;Bragantino;E
 2;Goiás;Palmeiras;E
-2;América Mineiro;Juventude;V
+2;América-MG;Juventude;V
 2;Corinthians;Avaí;V
 2;Cuiabá;Fluminense;D
 2;Santos;Coritiba;V
 2;Flamengo;São Paulo;V
-2;Red Bull Bragantino;Atlético Goianiense;V
-2;Athletico Paranaense;Atlético Mineiro;D
+2;Bragantino;Atlético-GO;V
+2;Athlético-PR;Atlético-MG;D
 2;Internacional;Fortaleza;V
 2;Ceará;Botafogo;D
 4;Flamengo;Palmeiras;E
-3;Red Bull Bragantino;São Paulo;E
-3;Athletico Paranaense;Flamengo;V
+3;Bragantino;São Paulo;E
+3;Athlético-PR;Flamengo;V
 3;Fluminense;Internacional;D
 3;Palmeiras;Corinthians;V
-3;Atlético Mineiro;Coritiba;E
-3;Atlético Goianiense;Botafogo;E
-3;Santos;América Mineiro;V
+3;Atlético-MG;Coritiba;E
+3;Atlético-GO;Botafogo;E
+3;Santos;América-MG;V
 3;Juventude;Cuiabá;D
 3;Avaí;Goiás;V
-4;Ceará;Red Bull Bragantino;D
-4;América Mineiro;Athletico Paranaense;V
-4;Goiás;Atlético Mineiro;E
-4;Cuiabá;Atlético Goianiense;E
+4;Ceará;Bragantino;D
+4;América-MG;Athlético-PR;V
+4;Goiás;Atlético-MG;E
+4;Cuiabá;Atlético-GO;E
 4;Botafogo;Juventude;E
 4;Coritiba;Fluminense;V
 4;Corinthians;Fortaleza;V
 4;Internacional;Avaí;E
 4;São Paulo;Santos;V
-5;Atlético Mineiro;América Mineiro;D
-5;Athletico Paranaense;Ceará;V
+5;Atlético-MG;América-MG;D
+5;Athlético-PR;Ceará;V
 5;Flamengo;Botafogo;D
 5;Palmeiras;Fluminense;E
-5;Atlético Goianiense;Goiás;D
-5;Red Bull Bragantino;Corinthians;D
+5;Atlético-GO;Goiás;D
+5;Bragantino;Corinthians;D
 5;Santos;Cuiabá;V
 5;Juventude;Internacional;E
 5;Fortaleza;São Paulo;E
 5;Avaí;Coritiba;V
-7;Red Bull Bragantino;Atlético Mineiro;E
+7;Bragantino;Atlético-MG;E
 6;Ceará;Flamengo;E
-6;Palmeiras;Red Bull Bragantino;V
+6;Palmeiras;Bragantino;V
 6;Internacional;Corinthians;E
-6;Atlético Mineiro;Atlético Goianiense;V
-6;Fluminense;Athletico Paranaense;V
+6;Atlético-MG;Atlético-GO;V
+6;Fluminense;Athlético-PR;V
 6;São Paulo;Cuiabá;V
-6;Coritiba;América Mineiro;V
+6;Coritiba;América-MG;V
 6;Avaí;Juventude;D
 6;Botafogo;Fortaleza;V
 6;Goiás;Santos;V
 7;Flamengo;Goiás;V
-7;Atlético Goianiense;Coritiba;V
+7;Atlético-GO;Coritiba;V
 7;Santos;Ceará;E
 7;Juventude;Palmeiras;D
-7;América Mineiro;Botafogo;E
+7;América-MG;Botafogo;E
 7;Cuiabá;Internacional;E
 7;Fortaleza;Fluminense;D
 7;Corinthians;São Paulo;E
-7;Athletico Paranaense;Avaí;V
-8;Goiás;Red Bull Bragantino;E
+7;Athlético-PR;Avaí;V
+8;Goiás;Bragantino;E
 8;São Paulo;Ceará;E
 8;Fortaleza;Juventude;E
 8;Coritiba;Botafogo;V
 8;Santos;Palmeiras;D
-8;Corinthians;América Mineiro;E
-8;Cuiabá;Athletico Paranaense;D
+8;Corinthians;América-MG;E
+8;Cuiabá;Athlético-PR;D
 8;Fluminense;Flamengo;D
-8;Atlético Mineiro;Avaí;V
-8;Internacional;Atlético Goianiense;E
+8;Atlético-MG;Avaí;V
+8;Internacional;Atlético-GO;E
 3;Fortaleza;Ceará;D
-9;América Mineiro;Cuiabá;V
+9;América-MG;Cuiabá;V
 9;Avaí;São Paulo;E
 9;Ceará;Coritiba;E
-9;Athletico Paranaense;Santos;E
-9;Atlético Goianiense;Corinthians;D
+9;Athlético-PR;Santos;E
+9;Atlético-GO;Corinthians;D
 9;Juventude;Fluminense;V
 9;Flamengo;Fortaleza;D
-9;Palmeiras;Atlético Mineiro;E
-9;Red Bull Bragantino;Internacional;D
+9;Palmeiras;Atlético-MG;E
+9;Bragantino;Internacional;D
 9;Botafogo;Goiás;D
 10;Cuiabá;Corinthians;V
-10;Juventude;Athletico Paranaense;D
-10;América Mineiro;Ceará;D
-10;Red Bull Bragantino;Flamengo;V
-10;Atlético Goianiense;Avaí;V
+10;Juventude;Athlético-PR;D
+10;América-MG;Ceará;D
+10;Bragantino;Flamengo;V
+10;Atlético-GO;Avaí;V
 10;Santos;Internacional;E
-10;Fluminense;Atlético Mineiro;V
+10;Fluminense;Atlético-MG;V
 10;Palmeiras;Botafogo;V
 10;Coritiba;São Paulo;E
 10;Fortaleza;Goiás;E
 11;Corinthians;Juventude;V
-11;Fluminense;Atlético Goianiense;D
-11;Cuiabá;Red Bull Bragantino;E
-11;Atlético Mineiro;Santos;E
+11;Fluminense;Atlético-GO;D
+11;Cuiabá;Bragantino;E
+11;Atlético-MG;Santos;E
 11;Internacional;Flamengo;V
-11;São Paulo;América Mineiro;V
+11;São Paulo;América-MG;V
 11;Goiás;Ceará;E
 11;Coritiba;Palmeiras;D
-11;Fortaleza;Athletico Paranaense;E
+11;Fortaleza;Athlético-PR;E
 11;Botafogo;Avaí;D
 12;Juventude;Santos;D
-12;Ceará;Atlético Mineiro;E
-12;Red Bull Bragantino;Coritiba;V
+12;Ceará;Atlético-MG;E
+12;Bragantino;Coritiba;V
 12;Flamengo;Cuiabá;V
 12;Goiás;Internacional;D
-12;Athletico Paranaense;Corinthians;E
-12;América Mineiro;Fluminense;E
+12;Athlético-PR;Corinthians;E
+12;América-MG;Fluminense;E
 12;Botafogo;São Paulo;V
-12;Palmeiras;Atlético Goianiense;V
+12;Palmeiras;Atlético-GO;V
 12;Avaí;Fortaleza;V
 13;Cuiabá;Ceará;E
-13;Santos;Red Bull Bragantino;E
+13;Santos;Bragantino;E
 13;Corinthians;Goiás;V
-13;Atlético Mineiro;Flamengo;V
-13;Coritiba;Athletico Paranaense;D
-13;Atlético Goianiense;Juventude;V
-13;Fortaleza;América Mineiro;V
+13;Atlético-MG;Flamengo;V
+13;Coritiba;Athlético-PR;D
+13;Atlético-GO;Juventude;V
+13;Fortaleza;América-MG;V
 13;Internacional;Botafogo;D
 13;Fluminense;Avaí;V
 13;São Paulo;Palmeiras;D
 14;Internacional;Coritiba;V
-14;Athletico Paranaense;Red Bull Bragantino;V
+14;Athlético-PR;Bragantino;V
 14;Corinthians;Santos;E
-14;Flamengo;América Mineiro;V
-14;Atlético Mineiro;Fortaleza;V
+14;Flamengo;América-MG;V
+14;Atlético-MG;Fortaleza;V
 14;Botafogo;Fluminense;D
 14;Avaí;Palmeiras;E
 14;São Paulo;Juventude;E
-14;Ceará;Atlético Goianiense;E
+14;Ceará;Atlético-GO;E
 14;Goiás;Cuiabá;V
-15;Juventude;Atlético Mineiro;D
+15;Juventude;Atlético-MG;D
 15;Fluminense;Corinthians;V
 15;Ceará;Internacional;E
 15;Santos;Flamengo;D
-15;Palmeiras;Athletico Paranaense;D
+15;Palmeiras;Athlético-PR;D
 15;Avaí;Cuiabá;D
-15;Atlético Goianiense;São Paulo;D
-15;América Mineiro;Goiás;V
+15;Atlético-GO;São Paulo;D
+15;América-MG;Goiás;V
 15;Coritiba;Fortaleza;V
-15;Red Bull Bragantino;Botafogo;D
-16;Red Bull Bragantino;Avaí;V
+15;Bragantino;Botafogo;D
+16;Bragantino;Avaí;V
 16;Fluminense;Ceará;V
-16;Goiás;Athletico Paranaense;V
+16;Goiás;Athlético-PR;V
 16;Coritiba;Juventude;E
 16;Corinthians;Flamengo;V
 16;Fortaleza;Palmeiras;E
-16;Santos;Atlético Goianiense;V
-16;Atlético Mineiro;São Paulo;E
+16;Santos;Atlético-GO;V
+16;Atlético-MG;São Paulo;E
 16;Cuiabá;Botafogo;V
-16;Internacional;América Mineiro;V
-17;Athletico Paranaense;Internacional;E
+16;Internacional;América-MG;V
+17;Athlético-PR;Internacional;E
 17;Flamengo;Coritiba;V
 17;Avaí;Santos;V
 17;Ceará;Corinthians;V
 17;Juventude;Goiás;E
 17;São Paulo;Fluminense;E
-17;Atlético Goianiense;Fortaleza;D
-17;Botafogo;Atlético Mineiro;D
-17;América Mineiro;Red Bull Bragantino;D
+17;Atlético-GO;Fortaleza;D
+17;Botafogo;Atlético-MG;D
+17;América-MG;Bragantino;D
 17;Palmeiras;Cuiabá;V
 18;Ceará;Avaí;V
 18;Goiás;Fluminense;D
-18;Red Bull Bragantino;Fortaleza;V
-18;Athletico Paranaense;Atlético Goianiense;V
+18;Bragantino;Fortaleza;V
+18;Athlético-PR;Atlético-GO;V
 18;Internacional;São Paulo;E
 18;Flamengo;Juventude;V
 18;Santos;Botafogo;V
 18;Corinthians;Coritiba;V
-18;Cuiabá;Atlético Mineiro;E
-18;América Mineiro;Palmeiras;D
+18;Cuiabá;Atlético-MG;E
+18;América-MG;Palmeiras;D
 19;São Paulo;Goiás;E
-19;Botafogo;Athletico Paranaense;V
+19;Botafogo;Athlético-PR;V
 19;Avaí;Flamengo;D
-19;Fluminense;Red Bull Bragantino;V
+19;Fluminense;Bragantino;V
 19;Juventude;Ceará;V
 19;Palmeiras;Internacional;V
-19;Atlético Goianiense;América Mineiro;D
-19;Atlético Mineiro;Corinthians;D
+19;Atlético-GO;América-MG;D
+19;Atlético-MG;Corinthians;D
 19;Fortaleza;Santos;E
 19;Coritiba;Cuiabá;V
 20;Goiás;Coritiba;V
 20;Ceará;Palmeiras;D
 20;Corinthians;Botafogo;V
-20;Flamengo;Atlético Goianiense;V
-20;Athletico Paranaense;São Paulo;V
-20;Internacional;Atlético Mineiro;V
-20;América Mineiro;Avaí;V
+20;Flamengo;Atlético-GO;V
+20;Athlético-PR;São Paulo;V
+20;Internacional;Atlético-MG;V
+20;América-MG;Avaí;V
 20;Cuiabá;Fortaleza;D
-20;Red Bull Bragantino;Juventude;V
+20;Bragantino;Juventude;V
 20;Santos;Fluminense;E
-21;Juventude;América Mineiro;D
+21;Juventude;América-MG;D
 21;Botafogo;Ceará;E
 21;Avaí;Corinthians;E
-21;Atlético Goianiense;Red Bull Bragantino;V
+21;Atlético-GO;Bragantino;V
 21;São Paulo;Flamengo;D
 21;Fluminense;Cuiabá;V
 21;Palmeiras;Goiás;V
 21;Fortaleza;Internacional;V
-21;Atlético Mineiro;Athletico Paranaense;D
+21;Atlético-MG;Athlético-PR;D
 21;Coritiba;Santos;D
 22;Goiás;Avaí;E
 22;Corinthians;Palmeiras;D
 22;Cuiabá;Juventude;V
-22;Botafogo;Atlético Goianiense;E
-22;Coritiba;Atlético Mineiro;D
+22;Botafogo;Atlético-GO;E
+22;Coritiba;Atlético-MG;D
 22;Ceará;Fortaleza;D
-22;São Paulo;Red Bull Bragantino;V
-22;Flamengo;Athletico Paranaense;V
-22;América Mineiro;Santos;V
+22;São Paulo;Bragantino;V
+22;Flamengo;Athlético-PR;V
+22;América-MG;Santos;V
 22;Internacional;Fluminense;V
-23;Atlético Mineiro;Goiás;D
+23;Atlético-MG;Goiás;D
 23;Fluminense;Coritiba;V
 23;Juventude;Botafogo;E
 23;Palmeiras;Flamengo;E
-23;Athletico Paranaense;América Mineiro;E
-23;Atlético Goianiense;Cuiabá;E
+23;Athlético-PR;América-MG;E
+23;Atlético-GO;Cuiabá;E
 23;Fortaleza;Corinthians;V
 23;Santos;São Paulo;V
-23;Red Bull Bragantino;Ceará;E
+23;Bragantino;Ceará;E
 23;Avaí;Internacional;D
-24;Goiás;Atlético Goianiense;V
+24;Goiás;Atlético-GO;V
 24;Coritiba;Avaí;V
 24;Fluminense;Palmeiras;E
-24;Ceará;Athletico Paranaense;E
-24;América Mineiro;Atlético Mineiro;E
+24;Ceará;Athlético-PR;E
+24;América-MG;Atlético-MG;E
 24;São Paulo;Fortaleza;D
 24;Cuiabá;Santos;E
 24;Botafogo;Flamengo;D
 24;Internacional;Juventude;V
-24;Corinthians;Red Bull Bragantino;V
+24;Corinthians;Bragantino;V
 25;Juventude;Avaí;E
-25;Red Bull Bragantino;Palmeiras;E
-25;Athletico Paranaense;Fluminense;V
-25;América Mineiro;Coritiba;V
+25;Bragantino;Palmeiras;E
+25;Athlético-PR;Fluminense;V
+25;América-MG;Coritiba;V
 25;Flamengo;Ceará;E
 25;Corinthians;Internacional;E
 25;Fortaleza;Botafogo;D
-25;Atlético Goianiense;Atlético Mineiro;D
+25;Atlético-GO;Atlético-MG;D
 25;Cuiabá;São Paulo;E
 25;Santos;Goiás;D
-26;Atlético Mineiro;Red Bull Bragantino;E
+26;Atlético-MG;Bragantino;E
 26;Internacional;Cuiabá;V
 26;Ceará;Santos;V
 26;Fluminense;Fortaleza;V
 26;Palmeiras;Juventude;V
-26;Botafogo;América Mineiro;E
-26;Avaí;Athletico Paranaense;E
-26;Coritiba;Atlético Goianiense;V
+26;Botafogo;América-MG;E
+26;Avaí;Athlético-PR;E
+26;Coritiba;Atlético-GO;V
 26;São Paulo;Corinthians;E
 26;Goiás;Flamengo;E
-27;Avaí;Atlético Mineiro;V
+27;Avaí;Atlético-MG;V
 27;Botafogo;Coritiba;V
-27;Red Bull Bragantino;Goiás;E
+27;Bragantino;Goiás;E
 27;Flamengo;Fluminense;D
 27;Ceará;São Paulo;D
 27;Juventude;Fortaleza;E
-27;América Mineiro;Corinthians;V
+27;América-MG;Corinthians;V
 27;Palmeiras;Santos;V
-27;Athletico Paranaense;Cuiabá;E
-27;Atlético Goianiense;Internacional;D
+27;Athlético-PR;Cuiabá;E
+27;Atlético-GO;Internacional;D
 28;São Paulo;Avaí;V
-28;Santos;Athletico Paranaense;V
+28;Santos;Athlético-PR;V
 28;Coritiba;Ceará;V
 28;Fortaleza;Flamengo;V
-28;Corinthians;Atlético Goianiense;V
+28;Corinthians;Atlético-GO;V
 28;Fluminense;Juventude;V
-28;Cuiabá;América Mineiro;V
-28;Internacional;Red Bull Bragantino;E
+28;Cuiabá;América-MG;V
+28;Internacional;Bragantino;E
 28;Goiás;Botafogo;D
-28;Atlético Mineiro;Palmeiras;D
-29;Ceará;América Mineiro;D
-29;Atlético Mineiro;Fluminense;V
+28;Atlético-MG;Palmeiras;D
+29;Ceará;América-MG;D
+29;Atlético-MG;Fluminense;V
 29;Internacional;Santos;V
 29;Goiás;Fortaleza;D
-29;Athletico Paranaense;Juventude;V
-29;Avaí;Atlético Goianiense;D
-29;Flamengo;Red Bull Bragantino;V
+29;Athlético-PR;Juventude;V
+29;Avaí;Atlético-GO;D
+29;Flamengo;Bragantino;V
 29;Corinthians;Cuiabá;V
 29;Botafogo;Palmeiras;D
 30;Juventude;Corinthians;E
-30;Atlético Goianiense;Fluminense;V
-30;Red Bull Bragantino;Cuiabá;V
+30;Atlético-GO;Fluminense;V
+30;Bragantino;Cuiabá;V
 30;Ceará;Goiás;E
-30;Athletico Paranaense;Fortaleza;E
+30;Athlético-PR;Fortaleza;E
 30;Flamengo;Internacional;E
-30;Santos;Atlético Mineiro;D
+30;Santos;Atlético-MG;D
 30;Palmeiras;Coritiba;V
 30;Avaí;Botafogo;D
-30;América Mineiro;São Paulo;D
+30;América-MG;São Paulo;D
 31;Cuiabá;Flamengo;D
-31;Corinthians;Athletico Paranaense;V
+31;Corinthians;Athlético-PR;V
 31;Internacional;Goiás;V
 31;Fortaleza;Avaí;V
 31;São Paulo;Botafogo;D
-31;Coritiba;Red Bull Bragantino;V
-31;Fluminense;América Mineiro;D
-31;Atlético Mineiro;Ceará;E
-31;Atlético Goianiense;Palmeiras;E
+31;Coritiba;Bragantino;V
+31;Fluminense;América-MG;D
+31;Atlético-MG;Ceará;E
+31;Atlético-GO;Palmeiras;E
 31;Santos;Juventude;V
-32;Flamengo;Atlético Mineiro;V
-32;América Mineiro;Fortaleza;D
+32;Flamengo;Atlético-MG;V
+32;América-MG;Fortaleza;D
 32;Palmeiras;São Paulo;E
 32;Ceará;Cuiabá;E
 32;Botafogo;Internacional;D
-32;Juventude;Atlético Goianiense;E
-32;Athletico Paranaense;Coritiba;V
+32;Juventude;Atlético-GO;E
+32;Athlético-PR;Coritiba;V
 32;Avaí;Fluminense;D
-32;Red Bull Bragantino;Santos;D
+32;Bragantino;Santos;D
 29;São Paulo;Coritiba;V
-33;Red Bull Bragantino;Athletico Paranaense;V
+33;Bragantino;Athlético-PR;V
 33;Santos;Corinthians;D
-33;América Mineiro;Flamengo;D
+33;América-MG;Flamengo;D
 33;Palmeiras;Avaí;V
 33;Fluminense;Botafogo;E
 33;Juventude;São Paulo;D
-33;Atlético Goianiense;Ceará;V
+33;Atlético-GO;Ceará;V
 33;Coritiba;Internacional;E
 33;Cuiabá;Goiás;D
-33;Fortaleza;Atlético Mineiro;E
-34;Athletico Paranaense;Palmeiras;D
+33;Fortaleza;Atlético-MG;E
+34;Athlético-PR;Palmeiras;D
 34;Flamengo;Santos;V
-34;Botafogo;Red Bull Bragantino;V
-34;Goiás;América Mineiro;E
+34;Botafogo;Bragantino;V
+34;Goiás;América-MG;E
 34;Internacional;Ceará;V
 34;Corinthians;Fluminense;D
 34;Fortaleza;Coritiba;V
-34;São Paulo;Atlético Goianiense;V
-34;Atlético Mineiro;Juventude;V
+34;São Paulo;Atlético-GO;V
+34;Atlético-MG;Juventude;V
 34;Cuiabá;Avaí;V
 32;Goiás;Corinthians;E
 35;Ceará;Fluminense;D
 35;Botafogo;Cuiabá;D
-35;São Paulo;Atlético Mineiro;E
-35;América Mineiro;Internacional;V
-35;Athletico Paranaense;Goiás;V
-35;Atlético Goianiense;Santos;D
-35;Avaí;Red Bull Bragantino;D
+35;São Paulo;Atlético-MG;E
+35;América-MG;Internacional;V
+35;Athlético-PR;Goiás;V
+35;Atlético-GO;Santos;D
+35;Avaí;Bragantino;D
 35;Juventude;Coritiba;D
 35;Palmeiras;Fortaleza;V
 35;Flamengo;Corinthians;D
 36;Santos;Avaí;E
 36;Fluminense;São Paulo;V
-36;Red Bull Bragantino;América Mineiro;D
+36;Bragantino;América-MG;D
 36;Goiás;Juventude;V
 36;Corinthians;Ceará;V
-36;Internacional;Athletico Paranaense;V
-36;Fortaleza;Atlético Goianiense;E
+36;Internacional;Athlético-PR;V
+36;Fortaleza;Atlético-GO;E
 36;Coritiba;Flamengo;V
 36;Cuiabá;Palmeiras;E
-36;Atlético Mineiro;Botafogo;D
+36;Atlético-MG;Botafogo;D
 37;São Paulo;Internacional;D
 37;Avaí;Ceará;V
 37;Coritiba;Corinthians;E
 37;Fluminense;Goiás;V
-37;Fortaleza;Red Bull Bragantino;V
-37;Atlético Goianiense;Athletico Paranaense;E
+37;Fortaleza;Bragantino;V
+37;Atlético-GO;Athlético-PR;E
 37;Juventude;Flamengo;E
-37;Palmeiras;América Mineiro;V
-37;Atlético Mineiro;Cuiabá;V
+37;Palmeiras;América-MG;V
+37;Atlético-MG;Cuiabá;V
 37;Botafogo;Santos;V
 38;Flamengo;Avaí;D
 38;Goiás;São Paulo;D
 38;Cuiabá;Coritiba;V
-38;Athletico Paranaense;Botafogo;V
+38;Athlético-PR;Botafogo;V
 38;Ceará;Juventude;V
-38;Red Bull Bragantino;Fluminense;D
-38;América Mineiro;Atlético Goianiense;E
-38;Corinthians;Atlético Mineiro;D
+38;Bragantino;Fluminense;D
+38;América-MG;Atlético-GO;E
+38;Corinthians;Atlético-MG;D
 38;Santos;Fortaleza;D
 38;Internacional;Palmeiras;V
